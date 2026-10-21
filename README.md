@@ -22,6 +22,12 @@ A suite of web applications that helps importers, exporters and customs brokers 
 
 ## Tech stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,styledcomponents,nodejs,nestjs,express,vitest&perline=12" alt="Languages and frontend/backend tools" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,sqlite,aws,docker,jenkins,githubactions,vercel,supabase,pnpm,git&perline=12" alt="Database and DevOps tools" />
+</p>
+
 **Languages:** TypeScript, JavaScript, SQL, HTML, CSS
 
 **Frontend:** React, Next.js, Tailwind CSS, Ant Design, styled-components, TanStack Query, Zustand, React Hook Form, Zod
