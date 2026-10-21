@@ -36,36 +36,6 @@ A business web platform for EDI and trade documents, built at the company I work
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-22-P&theme=github_dark" alt="Contribution history" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=J-22-P&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-22-P&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=J-22-P&theme=github_dark&utcOffset=7" alt="Productive time" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=J-22-P&theme=github_dark" alt="Top languages by commit" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=J-22-P&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
-## Featured repository
-
-<p align="center">
-  <a href="https://github.com/J-22-P/nosion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=J-22-P&repo=nosion&theme=github_dark&hide_border=true&show_owner=false" alt="NOSION repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-22-P/J-22-P/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J-22-P/J-22-P/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/J-22-P/J-22-P/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
 ## Contact
 
 [Email](mailto:pongsathorn.junt@gmail.com)
