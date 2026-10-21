@@ -41,10 +41,6 @@ A business web platform for EDI and trade documents, built at the company I work
   <img src="https://streak-stats.demolab.com?user=J-22-P&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J-22-P&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
 ## Contact
 
 [Email](mailto:pongsathorn.junt@gmail.com)
