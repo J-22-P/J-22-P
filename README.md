@@ -4,7 +4,7 @@
 
 # Hi, I'm Pongsathorn
 
-Full-stack developer in Bangkok, working mostly with TypeScript, React/Next.js and Node.js.
+Full-stack developer , working mostly with TypeScript, React/Next.js and Node.js.
 
 I build web applications end to end: user interfaces, APIs, databases, authentication, background jobs, testing and deployment. I like practical products that people use every day, from personal productivity tools to business systems for companies.
 
