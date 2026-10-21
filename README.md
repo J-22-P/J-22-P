@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="J-22-P, full-stack dev" width="100%" />
+</p>
+
 # Hi, I'm Pongsathorn
 
 Full-stack developer in Bangkok, working mostly with TypeScript, React/Next.js and Node.js.
