@@ -13,14 +13,16 @@ I build web applications end to end: user interfaces, APIs, databases, authentic
 **[NOSION](https://github.com/J-22-P/nosion)** (personal project, built solo)  
 A productivity web app that brings tasks, personal finance and habits into one place. I designed and developed the whole system myself, from the frontend and API to the database, notifications, CI/CD and deployment. [Live demo](https://nosion-staging-web.vercel.app/login)
 
-**EzySuite** (company project, full-stack developer in a team)  
-A suite of web applications that helps importers, exporters and customs brokers prepare, check and submit customs and trade documents. The system is split into frontend (Next.js) and backend services (microservice).
+**EzySuite** (company project, full-stack developer in a team, since Apr 2026)  
+A suite of web applications that helps importers, exporters and customs brokers prepare, check and submit customs declarations. The system is split into Next.js frontends and Express (TypeScript) backend services.
 
-- Built and maintained import and export declaration forms, including duty, tax and value calculations, weight averaging and rounding rules, saved together in one database transaction
-- Added batch printing, search by invoice and other filters, and sped up large product tables with memoization, fewer re-renders and faster data loading
-- Developed master data and customer profile screens together with their backend APIs
-- Worked on permit and registration workflows, with field validation and clear error messages for users
-- Added a version endpoint to every service and an in-app popup that shows the running version of each one, and updated the shared CI/CD release pipeline (Jenkins, Docker)
+- Rebuilt duty and tax calculation as a single backend flow, replacing logic duplicated across frontend screens, so every screen and saved declaration uses the same figures; results are saved in one database transaction
+- Extended the calculation rules for specific-rate, anti-dumping and safeguard duties, excise, VAT and rounding, with automatic recalculation when items change
+- Implemented declaration features end to end: duty-compensation forms, short-shipment handling, cost and weight distribution, and XML generation for electronic customs submission
+- Prevented the same declaration from being submitted twice from two devices by checking the document version and locking it during submission
+- Built an Open API that lets external systems add customer products, with request logging
+- Built batch printing of official customs forms, Excel import, invoice search, and master-data screens and APIs for products, BOI certificates and customer profiles
+- Added a version endpoint to every service with an in-app version popup, and updated the shared Jenkins and Docker release pipeline
 
 **HR system and ERP reports** (internship, web application developer, Nov 2025 – Mar 2026)  
 Internal systems for a company's HR and ERP users, built as part of a small development team.
@@ -36,7 +38,7 @@ Internal systems for a company's HR and ERP users, built as part of a small deve
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,java,html,css,react,nextjs,angular,tailwind,styledcomponents,nodejs,nestjs,express,vitest&perline=14" alt="Languages and frontend/backend tools" />
   <br />
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,sqlite,aws,docker,jenkins,githubactions,gitlab,vercel,supabase,pnpm,git&perline=14" alt="Database and DevOps tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,sqlite,docker,jenkins,githubactions,gitlab,vercel,supabase,pnpm,git&perline=14" alt="Database and DevOps tools" />
 </p>
 
 **Languages:** TypeScript, JavaScript, Java, SQL, HTML, CSS
