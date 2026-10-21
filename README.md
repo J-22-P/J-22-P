@@ -9,8 +9,14 @@ I build web applications end to end: user interfaces, APIs, databases, authentic
 **[NOSION](https://github.com/J-22-P/nosion)** (personal project, built solo)  
 A productivity web app that brings tasks, personal finance and habits into one place. I designed and developed the whole system myself, from the frontend and API to the database, notifications, CI/CD and deployment. [Live demo](https://nosion-staging-web.vercel.app/login)
 
-**EzySuite** (company project, team member)  
-A business web platform for EDI and trade documents, built at the company I work for. I contribute to implementing frontend features with Next.js and integrations such as single sign-on and user authentication.
+**EzySuite** (company project, full-stack developer in a team)  
+A suite of web applications that helps importers, exporters and customs brokers prepare, check and submit customs and trade documents. The system is split into many small frontend (Next.js) and backend services. My work since April 2026, about 800 commits across 18 services:
+
+- Built and maintained import and export declaration forms, including duty, tax and value calculations, weight averaging and rounding rules, saved together in one database transaction
+- Added batch printing, search by invoice and other filters, and sped up large product tables with memoization, fewer re-renders and faster data loading
+- Developed master data and customer profile screens together with their backend APIs
+- Worked on permit and registration workflows, with field validation and clear error messages for users
+- Added a version endpoint to every service and an in-app popup that shows the running version of each one, and updated the shared CI/CD release pipeline (Jenkins, Docker)
 
 **Earlier projects:** an [environmental risk dashboard](https://github.com/J-22-P/Environmental_Rick_Project) that compares ML models for drought and flood prediction, and [READ A ROAD](https://github.com/J-22-P/Web-Novel---Read-A-Road), an online novel platform for readers, writers and admins.
 
@@ -28,7 +34,7 @@ A business web platform for EDI and trade documents, built at the company I work
 
 **Testing:** Vitest, Playwright, Supertest
 
-**DevOps & tools:** Docker, GitHub Actions, Vercel, Supabase, Turborepo, pnpm, Git
+**DevOps & tools:** Docker, Jenkins, GitHub Actions, Vercel, Supabase, Turborepo, pnpm, Git
 
 ## GitHub stats
 
