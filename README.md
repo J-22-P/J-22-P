@@ -40,7 +40,7 @@ A suite of web applications that helps importers, exporters and customs brokers 
 
 **Database:** PostgreSQL, Prisma, Redis, SQLite
 
-**Auth:** JWT, OAuth 2.0, SAML SSO, AWS Cognito, Argon2id, bcrypt
+**Auth:** JWT, OAuth 2.0, Argon2id, bcrypt
 
 **Testing:** Vitest, Playwright, Supertest
 
