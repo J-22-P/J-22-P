@@ -6,10 +6,10 @@ I build web applications end to end: user interfaces, APIs, databases, authentic
 
 ## Projects I've worked on
 
-**[NOSION](https://github.com/J-22-P/nosion)** (personal project, built solo)
+**[NOSION](https://github.com/J-22-P/nosion)** (personal project, built solo)  
 A productivity web app that brings tasks, personal finance and habits into one place. I designed and developed the whole system myself, from the frontend and API to the database, notifications, CI/CD and deployment. [Live demo](https://nosion-staging-web.vercel.app/login)
 
-**EzySuite** (company project, team member)
+**EzySuite** (company project, team member)  
 A business web platform for EDI and trade documents, built at the company I work for. I contribute to implementing frontend features with Next.js and integrations such as single sign-on and user authentication.
 
 **Earlier projects:** an [environmental risk dashboard](https://github.com/J-22-P/Environmental_Rick_Project) that compares ML models for drought and flood prediction, and [READ A ROAD](https://github.com/J-22-P/Web-Novel---Read-A-Road), an online novel platform for readers, writers and admins.
@@ -29,6 +29,21 @@ A business web platform for EDI and trade documents, built at the company I work
 **Testing:** Vitest, Playwright, Supertest
 
 **DevOps & tools:** Docker, GitHub Actions, Vercel, Supabase, Turborepo, pnpm, Git
+
+## GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=J-22-P&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-22-P&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=J-22-P&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J-22-P&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
+</p>
 
 ## Contact
 
