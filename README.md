@@ -10,7 +10,7 @@ I build web applications end to end: user interfaces, APIs, databases, authentic
 A productivity web app that brings tasks, personal finance and habits into one place. I designed and developed the whole system myself, from the frontend and API to the database, notifications, CI/CD and deployment. [Live demo](https://nosion-staging-web.vercel.app/login)
 
 **EzySuite** (company project, full-stack developer in a team)  
-A suite of web applications that helps importers, exporters and customs brokers prepare, check and submit customs and trade documents. The system is split into many small frontend (Next.js) and backend services. My work since April 2026, about 800 commits across 18 services:
+A suite of web applications that helps importers, exporters and customs brokers prepare, check and submit customs and trade documents. The system is split into frontend (Next.js) and backend services (microservice).
 
 - Built and maintained import and export declaration forms, including duty, tax and value calculations, weight averaging and rounding rules, saved together in one database transaction
 - Added batch printing, search by invoice and other filters, and sped up large product tables with memoization, fewer re-renders and faster data loading
