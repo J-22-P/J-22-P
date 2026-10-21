@@ -22,29 +22,36 @@ A suite of web applications that helps importers, exporters and customs brokers 
 - Worked on permit and registration workflows, with field validation and clear error messages for users
 - Added a version endpoint to every service and an in-app popup that shows the running version of each one, and updated the shared CI/CD release pipeline (Jenkins, Docker)
 
+**HR system and ERP reports** (internship, web application developer, Nov 2025 – Mar 2026)  
+Internal systems for a company's HR and ERP users, built as part of a small development team.
+
+- Developed HR web app screens on both the frontend (Angular) and the backend (Quarkus, Java) with Microsoft SQL Server: search and list pages, create and edit dialogs, employee history records, and document review with file download
+- Migrated ERP reports from i-net Clear Reports to JasperReports (Jaspersoft Studio), an open-source tool, to cut licence costs: rebuilt the SQL queries, expressions and layouts, with export to PDF, DOCX, CSV and XLSX
+- Worked from program and business specifications, with Git (GitLab) for version control
+
 **Earlier projects:** an [environmental risk dashboard](https://github.com/J-22-P/Environmental_Rick_Project) that compares ML models for drought and flood prediction, and [READ A ROAD](https://github.com/J-22-P/Web-Novel---Read-A-Road), an online novel platform for readers, writers and admins.
 
 ## Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,styledcomponents,nodejs,nestjs,express,vitest&perline=12" alt="Languages and frontend/backend tools" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,html,css,react,nextjs,angular,tailwind,styledcomponents,nodejs,nestjs,express,vitest&perline=14" alt="Languages and frontend/backend tools" />
   <br />
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,sqlite,aws,docker,jenkins,githubactions,vercel,supabase,pnpm,git&perline=12" alt="Database and DevOps tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,sqlite,aws,docker,jenkins,githubactions,gitlab,vercel,supabase,pnpm,git&perline=14" alt="Database and DevOps tools" />
 </p>
 
-**Languages:** TypeScript, JavaScript, SQL, HTML, CSS
+**Languages:** TypeScript, JavaScript, Java, SQL, HTML, CSS
 
-**Frontend:** React, Next.js, Tailwind CSS, Ant Design, styled-components, TanStack Query, Zustand, React Hook Form, Zod
+**Frontend:** React, Next.js, Angular, Tailwind CSS, Ant Design, styled-components, TanStack Query, Zustand, React Hook Form, Zod
 
-**Backend:** Node.js, NestJS, Express, REST APIs, Swagger/OpenAPI, Socket.IO, BullMQ
+**Backend:** Node.js, NestJS, Express, Quarkus, REST APIs, Swagger/OpenAPI, Socket.IO, BullMQ
 
-**Database:** PostgreSQL, Prisma, Redis, SQLite
+**Database:** PostgreSQL, Microsoft SQL Server, Prisma, Redis, SQLite
 
 **Auth:** JWT, OAuth 2.0, Argon2id, bcrypt
 
 **Testing:** Vitest, Playwright, Supertest
 
-**DevOps & tools:** Docker, Jenkins, GitHub Actions, Vercel, Supabase, Turborepo, pnpm, Git
+**DevOps & tools:** Docker, Jenkins, GitHub Actions, GitLab, Vercel, Supabase, Turborepo, pnpm, Git, JasperReports
 
 ## GitHub stats
 
