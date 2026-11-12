@@ -4,7 +4,7 @@
 
 # Hi, I'm Pongsathorn
 
-Full-stack developer , working mostly with TypeScript, React/Next.js and Node.js.
+Full-stack developer in Bangkok, working mostly with TypeScript, React/Next.js and Node.js.
 
 I build web applications end to end: user interfaces, APIs, databases, authentication, background jobs, testing and deployment. I like practical products that people use every day, from personal productivity tools to business systems for companies.
 
@@ -18,11 +18,12 @@ A suite of web applications that helps importers, exporters and customs brokers 
 
 - Rebuilt duty and tax calculation as a single backend flow, replacing logic duplicated across frontend screens, so every screen and saved declaration uses the same figures; results are saved in one database transaction
 - Extended the calculation rules for specific-rate, anti-dumping and safeguard duties, excise, VAT and rounding, with automatic recalculation when items change
-- Implemented declaration features end to end: duty-compensation forms, short-shipment handling, cost and weight distribution, and XML generation for electronic customs submission
+- Implemented declaration features end to end: duty-compensation forms, short-shipment handling, cost and weight distribution, batch updates across invoices, and XML generation for electronic customs submission
 - Prevented the same declaration from being submitted twice from two devices by checking the document version and locking it during submission
-- Built an Open API that lets external systems add customer products, with request logging
+- Built an Open API that lets external systems add customer products and short-shipment data, with request logging, and fixed data exchange with the National Single Window (NSW)
 - Built batch printing of official customs forms, Excel import, invoice search, and master-data screens and APIs for products, BOI certificates and customer profiles
 - Added a version endpoint to every service with an in-app version popup, and updated the shared Jenkins and Docker release pipeline
+- Delivered urgent production hotfixes for customer-reported issues, coordinating through a partner to investigate, fix and release
 
 **HR system and ERP reports** (internship, web application developer, Nov 2025 – Mar 2026)  
 Internal systems for a company's HR and ERP users, built as part of a small development team.
@@ -32,6 +33,10 @@ Internal systems for a company's HR and ERP users, built as part of a small deve
 - Worked from program and business specifications, with Git (GitLab) for version control
 
 **Earlier projects:** an [environmental risk dashboard](https://github.com/J-22-P/Environmental_Rick_Project) that compares ML models for drought and flood prediction, and [READ A ROAD](https://github.com/J-22-P/Web-Novel---Read-A-Road), an online novel platform for readers, writers and admins.
+
+## Education
+
+B.Sc. Computer Science, Kasetsart University (2022 – 2026), GPA 3.54
 
 ## Tech stack
 
